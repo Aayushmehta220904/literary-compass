@@ -171,7 +171,6 @@ This project is useful for:
 ## License
 
 This project is available for educational and personal use. You can add a specific open-source license if needed.
-<img width="451" height="692" alt="image" src="https://github.com/user-attachments/assets/154750f9-3af3-41a9-9ebd-94669a24680e" />
 
 ##Author
 
