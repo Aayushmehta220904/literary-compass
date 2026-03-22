@@ -172,6 +172,6 @@ This project is useful for:
 
 This project is available for educational and personal use. You can add a specific open-source license if needed.
 
-##Author
+## Author
 
 **Aayush Mehta**
